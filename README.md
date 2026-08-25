@@ -120,10 +120,3 @@ This project demonstrates practical use of:
 * User input and validation
 * Basic data analysis
 * Building a command-line application
-
-## 👩‍💻 Author
-
-**Gauri Nandwana**
-
-B.Tech Computer Science Engineering
-VIT Bhopal University
